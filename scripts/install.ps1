@@ -740,7 +740,7 @@ function Install-FreeClaudeCode {
         "install",
         "--force",
         "--refresh-package",
-        "free-claude-code",
+        "free-claude-code@$RepoArchiveUrl",
         "--python",
         $PythonRequest
     )
