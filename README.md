@@ -509,13 +509,13 @@ Stop every running FCC command before uninstalling.
 macOS/Linux:
 
 ```bash
-curl -fsSL "https://raw.githubusercontent.com/Alishahryar1/free-claude-code/main/scripts/uninstall.sh" | sh
+curl -fsSL "https://raw.githubusercontent.com/sayfarin/free-claude-code/main/scripts/uninstall.sh" | sh
 ```
 
 Windows PowerShell:
 
 ```powershell
-& ([scriptblock]::Create((irm "https://raw.githubusercontent.com/Alishahryar1/free-claude-code/main/scripts/uninstall.ps1")))
+& ([scriptblock]::Create((irm "https://raw.githubusercontent.com/sayfarin/free-claude-code/main/scripts/uninstall.ps1")))
 ```
 
 ## Project Links
